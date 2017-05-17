@@ -148,7 +148,7 @@ public class Model {
         actualitzaLlistes();
     }
     
-    public void deassignaSeu(Seu s, int id_empresa){
+    public void treuRelEmpresa(Seu s, int id_empresa){
         Empresa canviat = null;
         try{
            if(s != null){

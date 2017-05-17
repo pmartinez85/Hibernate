@@ -3,11 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/pedro/NetBeansProjects/projecte_hibernate/src/entitats/Empresa.java</file>
-            <file>file:/home/pedro/NetBeansProjects/projecte_hibernate/src/hibernate.cfg.xml</file>
-            <file>file:/home/pedro/NetBeansProjects/projecte_hibernate/src/vista/Vista.java</file>
-            <file>file:/home/pedro/NetBeansProjects/projecte_hibernate/src/entitats/Seu.java</file>
-            <file>file:/home/pedro/NetBeansProjects/projecte_hibernate/src/controlador/Controlador.java</file>
+            <file>file:/home/pedro/NetBeansProjects/avoreeee/src/controlador/Controlador.java</file>
+            <file>file:/home/pedro/NetBeansProjects/avoreeee/src/entitats/Empresa.java</file>
+            <file>file:/home/pedro/NetBeansProjects/avoreeee/src/entitats/Seu.java</file>
+            <file>file:/home/pedro/NetBeansProjects/avoreeee/src/model/Model.java</file>
         </group>
     </open-files>
 </project-private>
